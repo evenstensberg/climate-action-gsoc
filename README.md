@@ -1,7 +1,5 @@
 # climate-action-gsoc
 
-
-
 **These were some of the notes I was taking during the session**
 
 - Interested in Cloud infrastructure
@@ -21,3 +19,7 @@
 - IPFS: Sharing data you have left to spare - Scales if performance is not in the picture
 - Opinion: Aggregation -> Representing data right way is the bottleneck, adjust metrics to          scenarios
 - Suggestion: Extractors that are configurable to an appropriate structure might be a way to go, don't care too much about format, but rather parse raw data and format it later
+
+**People**
+
+- :it: [Francesco Zaia](https://twitter.com/francescozaia), [Italian Gov Digital Transformation team](https://teamdigitale.governo.it/en/)

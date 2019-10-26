@@ -23,3 +23,4 @@
 **People**
 
 - :it: [Francesco Zaia](https://twitter.com/francescozaia), [Italian Gov Digital Transformation team](https://teamdigitale.governo.it/en/)
+- :norway: [Even Stensberg](https://twitter.com/francescozaia), [webpack](https://webpack.js.org/) / [The Artic University of Norway](https://en.uit.no/om/enhet/forsiden?p_dimension_id=210108)

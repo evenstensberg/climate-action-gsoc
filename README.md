@@ -1,5 +1,10 @@
 # climate-action-gsoc
 
+**Purpose**
+
+This project is trying to solve how we (the public) collect, analyze and in total: manage data collected from climate in the world. The group is intended to find a way to make this data more public and in a better format than the current public data is represented and accessed.
+
+
 **These were some of the notes I was taking during the session**
 
 - Interested in Cloud infrastructure
